@@ -1,0 +1,6 @@
+framework module Pods_LifesumAssignmentTests {
+  umbrella header "Pods-LifesumAssignmentTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
